@@ -152,16 +152,5 @@
     "description": "Gaming mouse with 30K optical sensor and 90-hour battery life",
     "createdAt": "2024-05-10T08:15:00.000Z",
     "updatedAt": "2024-05-10T08:15:00.000Z"
-  },
-  {
-    "id": "15",
-    "name": "Anker PowerCore 20000mAh",
-    "sku": "ANKER-PC-20K-001",
-    "price": 49.99,
-    "stock": 120,
-    "category": "Accessories",
-    "description": "Portable charger with dual USB ports and 20000mAh capacity",
-    "createdAt": "2024-05-15T13:30:00.000Z",
-    "updatedAt": "2024-05-15T13:30:00.000Z"
   }
 ]
