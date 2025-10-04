@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Dell XPS 15",
+    "sku": "DELL-XPS15-001",
+    "price": 1299.99,
+    "stock": 15,
+    "category": "Electronics",
+    "description": "High-performance laptop with Intel Core i7, 16GB RAM, 512GB SSD",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "iPhone 15 Pro",
+    "sku": "APPLE-IP15P-001",
+    "price": 999.99,
+    "stock": 30,
+    "category": "Electronics",
+    "description": "Latest iPhone with A17 Pro chip, 128GB storage, Titanium design",
+    "createdAt": "2024-01-20T14:20:00.000Z",
+    "updatedAt": "2024-01-20T14:20:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Samsung Galaxy S24 Ultra",
+    "sku": "SAMS-GS24U-001",
+    "price": 1199.99,
+    "stock": 25,
+    "category": "Electronics",
+    "description": "Flagship Android smartphone with S Pen, 256GB storage",
+    "createdAt": "2024-02-01T09:15:00.000Z",
+    "updatedAt": "2024-02-01T09:15:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Sony WH-1000XM5",
+    "sku": "SONY-WH1000-001",
+    "price": 349.99,
+    "stock": 50,
+    "category": "Audio",
+    "description": "Premium noise-cancelling wireless headphones, 30-hour battery life",
+    "createdAt": "2024-02-10T16:45:00.000Z",
+    "updatedAt": "2024-02-10T16:45:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Apple MacBook Pro 16",
+    "sku": "APPLE-MBP16-001",
+    "price": 2499.99,
+    "stock": 10,
+    "category": "Electronics",
+    "description": "Professional laptop with M3 Pro chip, 18GB RAM, 512GB SSD",
+    "createdAt": "2024-02-15T11:00:00.000Z",
+    "updatedAt": "2024-02-15T11:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Logitech MX Master 3S",
+    "sku": "LOGI-MXM3S-001",
+    "price": 99.99,
+    "stock": 100,
+    "category": "Accessories",
+    "description": "Advanced wireless mouse with ultra-quiet clicks and 8K DPI sensor",
+    "createdAt": "2024-03-01T08:30:00.000Z",
+    "updatedAt": "2024-03-01T08:30:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "LG UltraWide Monitor 34",
+    "sku": "LG-UW34-001",
+    "price": 599.99,
+    "stock": 20,
+    "category": "Electronics",
+    "description": "34-inch curved ultrawide monitor, 3440x1440, 144Hz refresh rate",
+    "createdAt": "2024-03-10T13:20:00.000Z",
+    "updatedAt": "2024-03-10T13:20:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Keychron K8 Pro Mechanical Keyboard",
+    "sku": "KEY-K8PRO-001",
+    "price": 149.99,
+    "stock": 75,
+    "category": "Accessories",
+    "description": "Wireless mechanical keyboard with hot-swappable switches and RGB",
+    "createdAt": "2024-03-20T15:45:00.000Z",
+    "updatedAt": "2024-03-20T15:45:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "iPad Air M2",
+    "sku": "APPLE-IPAD-AIR-001",
+    "price": 699.99,
+    "stock": 40,
+    "category": "Electronics",
+    "description": "Versatile tablet with M2 chip, 11-inch Liquid Retina display, 128GB",
+    "createdAt": "2024-04-01T10:10:00.000Z",
+    "updatedAt": "2024-04-01T10:10:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "AirPods Pro 2",
+    "sku": "APPLE-APP2-001",
+    "price": 249.99,
+    "stock": 60,
+    "category": "Audio",
+    "description": "Wireless earbuds with active noise cancellation and USB-C charging",
+    "createdAt": "2024-04-10T12:35:00.000Z",
+    "updatedAt": "2024-04-10T12:35:00.000Z"
+  },
+  {
+    "id": "11",
+    "name": "Samsung 980 PRO SSD 1TB",
+    "sku": "SAMS-SSD-980-001",
+    "price": 129.99,
+    "stock": 80,
+    "category": "Storage",
+    "description": "NVMe PCIe 4.0 M.2 SSD with 7000 MB/s read speed",
+    "createdAt": "2024-04-15T09:25:00.000Z",
+    "updatedAt": "2024-04-15T09:25:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "Corsair Vengeance RGB 32GB RAM",
+    "sku": "CORS-RAM-32GB-001",
+    "price": 119.99,
+    "stock": 65,
+    "category": "Components",
+    "description": "DDR5 RAM 6000MHz with dynamic RGB lighting, 2x16GB kit",
+    "createdAt": "2024-04-20T14:55:00.000Z",
+    "updatedAt": "2024-04-20T14:55:00.000Z"
+  },
+  {
+    "id": "13",
+    "name": "Nintendo Switch OLED",
+    "sku": "NINT-SWITCH-OLED-001",
+    "price": 349.99,
+    "stock": 45,
+    "category": "Gaming",
+    "description": "Gaming console with 7-inch OLED screen and enhanced audio",
+    "createdAt": "2024-05-01T11:40:00.000Z",
+    "updatedAt": "2024-05-01T11:40:00.000Z"
+  },
+  {
+    "id": "14",
+    "name": "Razer DeathAdder V3",
+    "sku": "RAZER-DAV3-001",
+    "price": 69.99,
+    "stock": 90,
+    "category": "Accessories",
+    "description": "Gaming mouse with 30K optical sensor and 90-hour battery life",
+    "createdAt": "2024-05-10T08:15:00.000Z",
+    "updatedAt": "2024-05-10T08:15:00.000Z"
+  },
+  {
+    "id": "15",
+    "name": "Anker PowerCore 20000mAh",
+    "sku": "ANKER-PC-20K-001",
+    "price": 49.99,
+    "stock": 120,
+    "category": "Accessories",
+    "description": "Portable charger with dual USB ports and 20000mAh capacity",
+    "createdAt": "2024-05-15T13:30:00.000Z",
+    "updatedAt": "2024-05-15T13:30:00.000Z"
+  }
+]

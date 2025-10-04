@@ -1,9 +1,14 @@
 const express = require('express');
 const router = express.Router();
+const authController = require('../controllers/auth.controller');
+const apiKeyAuth = require('../middleware/apiKeyAuth');
 
-// Temporal - Estudiante 1 implementará esto
-router.post('/login', (req, res) => {
-  res.json({ message: 'Login endpoint - En desarrollo' });
-});
+/**
+ * POST /auth/login
+ * Iniciar sesión con email y password
+ * Requiere API Key en el header X-API-Key
+ * Body: { email, password }
+ */
+router.post('/login', apiKeyAuth, authController.login);
 
 module.exports = router;

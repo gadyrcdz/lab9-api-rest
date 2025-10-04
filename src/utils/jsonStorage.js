@@ -136,4 +136,4 @@ class JsonStorage {
   }
 }
 
-module.exports = JsonStorage;s
+module.exports = JsonStorage;
