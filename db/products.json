@@ -1,16 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "Laptop Dell XPS 15",
-    "sku": "DELL-XPS15-001",
-    "price": 1299.99,
-    "stock": 15,
-    "category": "Electronics",
-    "description": "High-performance laptop with Intel Core i7, 16GB RAM, 512GB SSD",
-    "createdAt": "2024-01-15T10:30:00.000Z",
-    "updatedAt": "2024-01-15T10:30:00.000Z"
-  },
-  {
     "id": "2",
     "name": "iPhone 15 Pro",
     "sku": "APPLE-IP15P-001",
@@ -152,5 +141,16 @@
     "description": "Gaming mouse with 30K optical sensor and 90-hour battery life",
     "createdAt": "2024-05-10T08:15:00.000Z",
     "updatedAt": "2024-05-10T08:15:00.000Z"
+  },
+  {
+    "id": "17595385511263ini4fgzv",
+    "name": "Nuevo Producto Test",
+    "sku": "TEST-001",
+    "price": 99.99,
+    "stock": 50,
+    "category": "Test",
+    "description": "Producto de prueba",
+    "createdAt": "2025-10-04T00:42:31.126Z",
+    "updatedAt": "2025-10-04T00:42:31.129Z"
   }
 ]
